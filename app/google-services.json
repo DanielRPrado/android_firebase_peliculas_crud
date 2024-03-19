@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241254997944",
+    "project_id": "peliculas-d0773",
+    "storage_bucket": "peliculas-d0773.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241254997944:android:d4095eb16c5f2021c0b94d",
+        "android_client_info": {
+          "package_name": "com.example.peliculas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdDJRvjOSiJDrsmPGMHqa3788pTss_Oi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
